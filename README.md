@@ -1,6 +1,6 @@
 # namu-darbas
 
-<p>Šis projektas skirtas GitHub užduočiai atlikti.</p>
+<p>Šis projektas skirtas GitHub užduočiai atlikti</p>
 
 ## Funkcijos
 <ul>
